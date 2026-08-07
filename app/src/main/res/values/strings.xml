@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">SegundoApp</string>
-    <string name="Nome">Riquelmy Miyasawa Borges</string>
-    <string name="captionBt">Clique Aqui</string>
+
+    <string name="Nome">Riquelmy Miyasawa - 06/08/26</string>
+
+    <string name="captionBt1">Clique Aqui 1</string>
+    <string name="captionBt2">Clique Aqui 2</string>
+    <string name="captionBt3">Clique Aqui 3</string>
+    <string name="captionBt4">Clique Aqui 4</string>
+    <string name="captionBt5">Clique Aqui 5</string>
 </resources>
